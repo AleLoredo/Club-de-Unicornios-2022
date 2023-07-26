@@ -17,18 +17,6 @@ A fines de evitar un exceso de granularidad se decidio emplear como categorizaci
 (Trabajo colaborativo en progreso de extensión - Favor de contactarme si existe algun inconveniente en la visualización al momento de su consulta)
 https://lookerstudio.google.com/s/jZqkmggyNTo
 
-
-Sectores Destacados: Las empresas con valoraciones superiores a 1 billón de dólares abarcaban diversos sectores, incluyendo tecnología, servicios financieros, salud y consumo, entre otros.
-
-Datos Relevantes:
-a. Financiamiento en 2022: Se analizó la cantidad de financiamiento que cada empresa obtuvo durante el año 2022 para evaluar su capacidad de crecimiento y expansión.
-b. Fecha de Creación: Se observó la fecha de fundación de cada empresa para comprender su trayectoria desde su inicio hasta la obtención de una valoración excepcional.
-c. Fecha de Conversión en "Unicornio": Se analizó el momento en que cada empresa alcanzó una valoración de 1 billón de dólares o más, para identificar el tiempo que les tomó alcanzar este hito.
-
-Inversores y Ubicación:
-a. Principales Inversores: Se investigaron los inversores clave que contribuyeron al financiamiento y desarrollo de cada empresa.
-b. País y Continente: Se determinó la ubicación geográfica de cada empresa, identificando el país y continente al que pertenecen.
-
 ## Conclusiones:
 De las 1074 empresas cuya capitalización de mercado superó 1 billón de dólares en 2022 el análisis mas superficial reveló que estas  ocupan diversos sectores de la industria y que si bien sus orígenes geográficos presentan una gran dispersión existe una gran polarización en algunos paises que coinciden con el top del ranking de potencias mundiales en poder politico y economico pero tambien en poder de mercado como es el caso de India. 
 Se evidenció una clara predominancia del sector por parte de empresas fundadas en norteamerica seguido por empresas del continente asiatico y el continente europeo. USA, China, India y UK fueron respectivamente los paises con mayor generación de los llamados Unicornios. Con el detalle de que USA y China abarcan el 84% del total de Unicornios del planeta. Asimismo en Europa, UK, Alemania y Francia lideran el sector que comparten con el resto de los paises europeos quienes tienen una distribución a grandes rasgos homoegenea de representación en el sector de producción de Unicornios a diferencia de lo que sucede en continentes como Oceania y Sud America.
