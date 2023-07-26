@@ -17,6 +17,11 @@ Para ello fue necesario emplear la base de datos de Naciones Soberanas publicada
 (Trabajo colaborativo en progreso de extensión - Favor de contactarme si existe algun inconveniente en la visualización al momento de su consulta)
 https://lookerstudio.google.com/s/jZqkmggyNTo
 
+![Pagina 1](images/pag1.png)
+![Pagina 2](images/pag2.png)
+![Pagina 3](images/pag3.png)
+![Pagina 4](images/pag4.png)
+
 ## Conclusiones:
 - De las 1074 empresas cuya capitalización de mercado superó 1 billón de dólares en 2022 el análisis mas superficial reveló que estas  ocupan diversos sectores de la industria y que si bien sus orígenes geográficos presentan una gran dispersión existe una gran polarización en algunos paises que coinciden con el top del ranking de potencias mundiales en poder politico y economico pero tambien en poder de mercado como es el caso de India. 
 - Se evidenció una clara predominancia del sector por parte de empresas fundadas en norteamerica seguido por empresas del continente asiatico y el continente europeo. USA, China, India y UK fueron respectivamente los paises con mayor generación de los llamados Unicornios. Con el detalle de que USA y China abarcan el 84% del total de Unicornios del planeta. Asimismo en Europa, UK, Alemania y Francia lideran el sector que comparten con el resto de los paises europeos quienes tienen una distribución a grandes rasgos homoegenea de representación en el sector de producción de Unicornios a diferencia de lo que sucede en continentes como Oceania y Sud America.
@@ -29,5 +34,3 @@ Este análisis proporciona una visión valiosa para inversores, líderes empresa
 - Dataset 1 - Unicornios en abril 2023 - https://www.cbinsights.com/research-unicorn-companies
 - Dataset 2 - Unicornios en mayo 2022 - https://mavenanalytics.io/
 - Dataset 3 - Base de datos de paises soberanos de las Naciones Unidas - https://unstats.un.org/UNSDWebsite/
-
-
