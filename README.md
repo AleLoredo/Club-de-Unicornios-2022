@@ -7,11 +7,11 @@ Se recopilaron y se procesaron los datos de las empresas con valuación superior
 Este informe presenta un análisis detallado de las empresas cuya valoración de mercado superó la impresionante cifra de 1 billón de dólares en el año 2022. El estudio se basa en datos publicos disponibles a la fecha de publicación de este reporte y los datos ocnsiderados han sido la valuación, el financiamiento obtenido en el año, la fecha de creación de la empresa, la fecha en que se convirtieron en "unicornios", quienes fueron los principales inversores y su vinculación geográfica original.
 
 ## Metodología:
-Se obtuvo un dataset de CB-Insights correspondiente al año 2023 y un dataset de Mavenanalytics correspondiente al año 2022.
-Se realizo un relevamiento de los datos presentes y faltantes en uno y otro dataset como asi también se relevo si las categorias de industria, nombres de pais, ciudades y continentes respondian a un mismo criterio. Resulto evidente que no era asi y se realizaron transformaciones para verificar, validar y estandarizar los datos.
+- Se obtuvo un dataset de CB-Insights correspondiente al año 2023 y un dataset de Mavenanalytics correspondiente al año 2022.
+- Se realizo un relevamiento de los datos presentes y faltantes en uno y otro dataset como asi también se relevo si las categorias de industria, nombres de pais, ciudades y continentes respondian a un mismo criterio. Resulto evidente que no era asi y se realizaron transformaciones para verificar, validar y estandarizar los datos.
 Para ello fue necesario emplear la base de datos de Naciones Soberanas publicada en el sitio de las Naciones Unidas la cual se utilizo para asignar correctamente la relacion entre paises, regiones y continentes. 
-Se volcaron los datasets a un archivo de Google Sheets donde fueron transformados mediante el uso de formulas y tecnicas de manipulación de datos de ejecución manual empleando las herramientas automatizadas de Spreadsheets. Asimismo se hizo uso del asistente automatizado de Spreadsheets para unificar bajo un unico nombre los nombres de las ciudades que se encontraban en el dataset en diferentes variantes.
-A fines de evitar un exceso de granularidad se decidio emplear como categorización geografica los continentes Norte America, SudAmerica, Asia, Oceania, Africa y Europa.
+- Se volcaron los datasets a un archivo de Google Sheets donde fueron transformados mediante el uso de formulas y tecnicas de manipulación de datos de ejecución manual empleando las herramientas automatizadas de Spreadsheets. Asimismo se hizo uso del asistente automatizado de Spreadsheets para unificar bajo un unico nombre los nombres de las ciudades que se encontraban en el dataset en diferentes variantes.
+- A fines de evitar un exceso de granularidad se decidio emplear como categorización geografica los continentes Norte America, SudAmerica, Asia, Oceania, Africa y Europa.
 
 ## Resultados:
 (Trabajo colaborativo en progreso de extensión - Favor de contactarme si existe algun inconveniente en la visualización al momento de su consulta)
