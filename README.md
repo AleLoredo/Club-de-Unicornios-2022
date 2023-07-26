@@ -17,10 +17,10 @@ Para ello fue necesario emplear la base de datos de Naciones Soberanas publicada
 (Trabajo colaborativo en progreso de extensión - Favor de contactarme si existe algun inconveniente en la visualización al momento de su consulta)
 https://lookerstudio.google.com/s/jZqkmggyNTo
 
-![Pagina 1](images/pag1.png)
-![Pagina 2](images/pag2.png)
-![Pagina 3](images/pag3.png)
-![Pagina 4](images/pag4.png)
+![Pagina 1](/images/Pag1.png)
+![Pagina 2](/images/Pag2.png)
+![Pagina 3](/images/Pag3.png)
+![Pagina 4](/images/Pag4.png)
 
 ## Conclusiones:
 - De las 1074 empresas cuya capitalización de mercado superó 1 billón de dólares en 2022 el análisis mas superficial reveló que estas  ocupan diversos sectores de la industria y que si bien sus orígenes geográficos presentan una gran dispersión existe una gran polarización en algunos paises que coinciden con el top del ranking de potencias mundiales en poder politico y economico pero tambien en poder de mercado como es el caso de India. 
