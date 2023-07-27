@@ -1,7 +1,7 @@
 # Analisis del club de los Unicornios. Su vinculación con las potencias mundiales y los fondos de inversión en 2022 - W.I.P
 
 ## Resumen:
-Se recopilaron y se procesaron los datos de las empresas con valuación superior al billón de Dólares en 2022 y tras un proceso de transformacion de los datos los mismos fueron conectados a Looker Studio para realizar una visualización de los mismos. Se utilizaron a su vez datos de los unicornios en 2023 para evaluar la evolución en el tiempo de la composición a nivel mundial de este fenemoneo. El análisis realizado arrojó una visión muy interesante sobre la composición de naciones implicadas en el conjunto y su representación, el sector de la industria al que pertenecen y a la velocidad de crecimiento vinculada a cada sector. De los resultados mas notalbes obtenidos se destaca la polarización hacia los USA y la hegemonia occidental considerando que Norte America, Europa y SudAmerica representan el 70% del sector por sobre Asia y Oceania.
+Se recopilaron y se procesaron los datos de las empresas con valuación superior al billón de Dólares en 2022 y tras un proceso de transformacion de los datos los mismos fueron conectados a Looker Studio para realizar una visualización de los mismos. Se utilizaron a su vez datos de los unicornios en 2023 para evaluar la evolución en el tiempo de la composición a nivel mundial de este fenemoneo. El análisis realizado arrojó una visión muy interesante sobre la composición de naciones implicadas en el conjunto y su representación, el sector de la industria al que pertenecen y a la velocidad de crecimiento vinculada a cada sector. De los resultados mas notables obtenidos se destaca la polarización hacia los USA y la hegemonia occidental considerando que Norte America, Europa y SudAmerica representan el 70% del sector por sobre Asia y Oceania.
 
 ## Introducción:
 Este informe presenta un análisis detallado de las empresas cuya valoración de mercado superó la impresionante cifra de 1 billón de dólares en el año 2022. El estudio se basa en datos publicos disponibles a la fecha de publicación de este reporte y los datos ocnsiderados han sido la valuación, el financiamiento obtenido en el año, la fecha de creación de la empresa, la fecha en que se convirtieron en "unicornios", quienes fueron los principales inversores y su vinculación geográfica original.
@@ -15,7 +15,8 @@ Para ello fue necesario emplear la base de datos de Naciones Soberanas publicada
 
 ## Resultados:
 (Trabajo colaborativo en progreso de extensión - Favor de contactarme si existe algun inconveniente en la visualización al momento de su consulta)
-https://lookerstudio.google.com/s/jZqkmggyNTo
+
+[Ver en Looker Studio](https://lookerstudio.google.com/reporting/9250764b-40b1-4c4e-be88-35e150f3d6ad)
 
 ![Pagina 1](/images/Pag1.png)
 ![Pagina 2](/images/Pag2.png)
