@@ -1,4 +1,4 @@
-# Analisis del club de los Unicornios. Su vinculación con las potencias mundiales y los fondos de inversión en 2022 - W.I.P
+# Analisis del club de los Unicornios. Su vinculación con las potencias mundiales y los fondos de inversión en 2022
 
 ## Resumen:
 Se recopilaron y se procesaron los datos de las empresas con valuación superior al billón de Dólares en 2022 y tras un proceso de transformacion de los datos los mismos fueron conectados a Looker Studio para realizar una visualización de los mismos. Se utilizaron a su vez datos de los unicornios en 2023 para evaluar la evolución en el tiempo de la composición a nivel mundial de este fenemoneo. El análisis realizado arrojó una visión muy interesante sobre la composición de naciones implicadas en el conjunto y su representación, el sector de la industria al que pertenecen y a la velocidad de crecimiento vinculada a cada sector. De los resultados mas notables obtenidos se destaca la polarización hacia los USA y la hegemonia occidental considerando que Norte America, Europa y SudAmerica representan el 70% del sector por sobre Asia y Oceania.
