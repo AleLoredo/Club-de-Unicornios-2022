@@ -14,7 +14,6 @@ Para ello fue necesario emplear la base de datos de Naciones Soberanas publicada
 - A fines de evitar un exceso de granularidad se decidio emplear como categorización geografica los continentes Norte America, SudAmerica, Asia, Oceania, Africa y Europa.
 
 ## Resultados:
-(Trabajo colaborativo en progreso de extensión - Favor de contactarme si existe algun inconveniente en la visualización al momento de su consulta)
 
 [Ver en Looker Studio](https://lookerstudio.google.com/reporting/9250764b-40b1-4c4e-be88-35e150f3d6ad)
 
